@@ -1,4 +1,5 @@
-**Price and Pharmaceutical Marketing**
+*collaboration avec mr Calciu
+*Price and Pharmaceutical Marketing**
 
 The price of pharmaceutical products plays a vital role in promoting
 drugs to doctors. Pharmaceutical prices are heavily regulated with price
